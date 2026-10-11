@@ -42,7 +42,8 @@
 <img width="656" height="705" alt="image" src="https://github.com/user-attachments/assets/0889681c-a75b-4025-b67d-a23989b75dd4" />
 
 # Output:
-<img width="656" height="705" alt="image" src="https://github.com/user-attachments/assets/16b512bf-e55f-41c6-b472-f3cc2fac836e" />
+<img width="575" height="109" alt="image" src="https://github.com/user-attachments/assets/e42461d7-8ee0-41b0-9b8f-559afe5eba87" />
+
 
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
