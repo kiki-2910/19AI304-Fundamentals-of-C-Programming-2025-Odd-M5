@@ -4,7 +4,7 @@
 ## 10. Implementation of programs using pointer arithmetic.
 # Ex.No:21
   Implement a C program to demonstrate call by value and call by reference by swapping two integers using separate functions.
-# Date : 
+# Date : 11.01.2026
 # Aim:
  To implement a C program that illustrates the difference between call by value and call by reference by swapping two integer variables using two separate functions.
 # Algorithm:
@@ -39,7 +39,11 @@
 ### Step 12: 
   Stop
 # Program:
+<img width="656" height="705" alt="image" src="https://github.com/user-attachments/assets/0889681c-a75b-4025-b67d-a23989b75dd4" />
+
 # Output:
+<img width="656" height="705" alt="image" src="https://github.com/user-attachments/assets/16b512bf-e55f-41c6-b472-f3cc2fac836e" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -48,7 +52,7 @@
 # IAPR-5- Module 5 - FoC
 # Ex.No:22
   Implement a C program to generate the Fibonacci series using a recursive function. The program should accept a positive integer n and display the first n terms of the Fibonacci sequence.
-# Date : 
+# Date : 11.01.2026
 # Aim:
   To implement a C program that uses a recursive function to generate and display the Fibonacci series for a given number of terms.
 # Algorithm:
@@ -77,7 +81,11 @@
 ### Step 10:
   Stop
 # Program:
+<img width="584" height="617" alt="image" src="https://github.com/user-attachments/assets/09ab816e-fc4e-4a03-bae1-5c4975a2e0d0" />
+
 # Output:
+<img width="351" height="245" alt="image" src="https://github.com/user-attachments/assets/b5589cd9-3ed1-4468-9f95-5eb75cc77a00" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -86,7 +94,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-5- Module 5 - FoC
 # Ex.No:23
    Implement a C program to demonstrate recursion by printing a sequence of even or odd numbers from a given lower limit to an upper limit, with each recursive call progressing by 2.
-# Date : 
+# Date : 11.01.2026
 # Aim:
   To implement a C program that uses a recursive function to print even or odd numbers in a specified range based on the starting value provided by the user.
 # Algorithm:
@@ -119,7 +127,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 12:
   Stop
 # Program:
+<img width="554" height="735" alt="image" src="https://github.com/user-attachments/assets/145cf3c0-685f-4e5c-9e48-54e9e8dcf3e2" />
+
 # Output:
+<img width="440" height="297" alt="image" src="https://github.com/user-attachments/assets/e1d9faaf-b35f-49d1-afab-dbb264085f5c" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -128,7 +140,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-5- Module 5 - FoC
 # Ex.No:24
    Implement a C program that dynamically allocates memory using calloc(), accepts integer inputs from the user, computes their sum, and prints the sum.
-# Date : 
+# Date : 11.01.2026
 # Aim:
   To implement a C program that dynamically allocates memory for an array of integers using calloc(), accepts elements from the user, computes their sum, and displays the sum.
 # Algorithm:
@@ -161,7 +173,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+<img width="466" height="726" alt="image" src="https://github.com/user-attachments/assets/9a1bb67a-93d2-4c54-bbb3-8a21d4c59ce6" />
+
 # Output:
+<img width="466" height="726" alt="image" src="https://github.com/user-attachments/assets/d840537c-dfde-449a-a255-9fbd1245f802" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -170,7 +186,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-5- Module 5 - FoC
 # Ex.No:25
    Implement a C program that reads a set of integers into an array and displays the array elements using a user-defined function.
-# Date : 
+# Date : 11.01.2026
 # Aim:
   To implement a C program that reads integers into an array and displays the elements using a user-defined function.
 # Algorithm:
@@ -197,6 +213,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+<img width="558" height="700" alt="image" src="https://github.com/user-attachments/assets/158d257f-d1b1-4063-abf0-a2a8471d41f6" />
+
 # Output:
+
+<img width="558" height="700" alt="image" src="https://github.com/user-attachments/assets/007d7e99-eabe-42c3-b55c-f29632cc42ff" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
