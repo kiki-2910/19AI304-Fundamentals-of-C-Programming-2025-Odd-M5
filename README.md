@@ -176,7 +176,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 <img width="466" height="726" alt="image" src="https://github.com/user-attachments/assets/9a1bb67a-93d2-4c54-bbb3-8a21d4c59ce6" />
 
 # Output:
-<img width="466" height="726" alt="image" src="https://github.com/user-attachments/assets/d840537c-dfde-449a-a255-9fbd1245f802" />
+<img width="531" height="220" alt="image" src="https://github.com/user-attachments/assets/671e7be7-bfe4-4758-8f32-ade26aa08f42" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
